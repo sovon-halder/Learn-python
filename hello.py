@@ -1,6 +1,6 @@
 
-x=5;
-x="sovon halder"
+x=5
 
 
-print(x);
+
+print(type(x));
