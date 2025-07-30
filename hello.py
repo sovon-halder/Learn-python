@@ -1,2 +1,4 @@
-a='hello sovon'
-print(len(a));
+
+
+a = "Hello, World!"
+print(a.split(","))
