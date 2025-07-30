@@ -1,6 +1,2 @@
-
-x=5
-
-
-
-print(type(x));
+for x in "sovn halder":
+    print(x);

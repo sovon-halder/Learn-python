@@ -62,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753712607186</updated>
-      <workItem from="1753712608209" duration="8462000" />
+      <workItem from="1753712608209" duration="10731000" />
     </task>
     <task id="LOCAL-00001" summary="variables">
       <option name="closed" value="true" />
@@ -109,6 +109,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="variables" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProject$hello.coverage" NAME="hello Coverage Results" MODIFIED="1753790320741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$hello.coverage" NAME="hello Coverage Results" MODIFIED="1753849209343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
