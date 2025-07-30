@@ -1,5 +1,3 @@
-
-
-a= "hello"
-b="world"+" "+a
-print(b);
+age = 21
+txt = f"My name is sovon, I am {age}"
+print(txt)
