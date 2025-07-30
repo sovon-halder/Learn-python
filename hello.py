@@ -1,2 +1,2 @@
-for x in "sovn halder":
-    print(x);
+a='hello sovon'
+print(len(a));
