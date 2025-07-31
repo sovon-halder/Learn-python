@@ -1,2 +1,2 @@
-mylist =["sovon","kabbo"]
-print(type(mylist));
+thistuple = ("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")
+print(thistuple[1:3])
