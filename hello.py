@@ -1,2 +1,2 @@
-thislist = ["apple", "banana", "cherry"]
-print(thislist)
+mylist =["sovon","kabbo"]
+print(type(mylist));
