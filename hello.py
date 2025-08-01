@@ -1,2 +1,2 @@
-thistuple = ("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")
-print(thistuple[1:3])
+v={"sovon","kabbo","kabir"}
+print(v);
