@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cea70bf-fc59-431f-8a84-a50ddc6d5545" name="Changes" comment="variables" />
+    <list default="true" id="6cea70bf-fc59-431f-8a84-a50ddc6d5545" name="Changes" comment="variables">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +65,7 @@
       <updated>1753712607186</updated>
       <workItem from="1753712608209" duration="17637000" />
       <workItem from="1753897497843" duration="2638000" />
-      <workItem from="1753944167492" duration="12881000" />
+      <workItem from="1753944167492" duration="14134000" />
     </task>
     <task id="LOCAL-00001" summary="variables">
       <option name="closed" value="true" />
@@ -109,6 +112,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="variables" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonProject$hello.coverage" NAME="hello Coverage Results" MODIFIED="1754208047572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$hello.coverage" NAME="hello Coverage Results" MODIFIED="1754208596278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -1,3 +1,4 @@
 thisset= {"apple","banana","cherry"}
-thisset.add("mango")
+add={"pineapple", "mango", "papaya"}
+thisset.update(add);
 print (thisset)
