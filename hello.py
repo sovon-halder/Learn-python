@@ -1,2 +1,3 @@
 thisset= {"apple","banana","cherry"}
-print ("banana" in thisset)
+thisset.add("mango")
+print (thisset)
