@@ -1,3 +1,2 @@
-thisset={"sovon","kabbo","rahul"}
-for c in thisset:
-    print(c)
+thisset= {"apple","banana","cherry"}
+print ("banana" in thisset)
