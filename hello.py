@@ -1,4 +1,7 @@
-thisset= {"apple","banana","cherry"}
-add={"pineapple", "mango", "papaya"}
-thisset.update(add);
-print (thisset)
+thisset = {"apple", "banana", "cherry"}
+
+x = thisset.clear()
+
+print(x)
+
+print(thisset)
