@@ -3,6 +3,5 @@ thisdict = {
   "model": "Mustang",
   "year": 1964
 }
-
-thisdict["year"] = "2004"
-print(thisdict["year"])
+if "year" in thisdict:
+  print("yes")
