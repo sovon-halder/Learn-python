@@ -3,4 +3,6 @@ thisdict = {
   "model": "Mustang",
   "year": 1964
 }
-print(thisdict["brand"])
+
+thisdict["year"] = "2004"
+print(thisdict["year"])
