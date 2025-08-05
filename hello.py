@@ -1,7 +1,7 @@
-thisset = {"apple", "banana", "cherry"}
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
 
-x = thisset.clear()
-
-print(x)
-
-print(thisset)
+print(thisdict);
