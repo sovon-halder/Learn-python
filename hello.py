@@ -1,4 +1,4 @@
-thisset = {"apple", "banana", "cherry"}
-
-for x in thisset:
-  print(x)
+a = 33
+b = 200
+if b > a:
+  print("b is greater than a")
