@@ -1,5 +1,10 @@
 a= 33
-b=200
+b=33
 if a>b:
-  print("this is right")
-else:print("this is wrong")
+  print("a gerer than b")
+elif a<b:
+  print("b geter than a")
+elif a==b:
+  print("a is equal b")
+
+
