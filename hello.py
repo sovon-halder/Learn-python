@@ -1,10 +1,16 @@
-a= 33
-b=33
-if a>b:
-  print("a gerer than b")
-elif a<b:
-  print("b geter than a")
-elif a==b:
-  print("a is equal b")
-
-
+day = 4
+match day:
+  case 1:
+    print("Monday")
+  case 2:
+    print("Tuesday")
+  case 3:
+    print("Wednesday")
+  case 4:
+    print("Thursday")
+  case 5:
+    print("Friday")
+  case 6:
+    print("Saturday")
+  case 7:
+    print("Sunday")
