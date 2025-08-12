@@ -1,4 +1,6 @@
-def my_function():
-  print("this program running properly")
-
-my_function()
+def func():
+    a=8
+    b=34
+    c=a+b
+    print(c)
+func()
