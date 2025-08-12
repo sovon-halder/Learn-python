@@ -1,5 +1,4 @@
-fruits = ["apple", "banana", "cherry"]
-for x in fruits:
-  print(x)
-  if x == "banana":
-    break
+def my_function():
+  print("this program running properly")
+
+my_function()
