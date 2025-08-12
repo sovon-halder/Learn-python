@@ -1,6 +1,4 @@
-def func():
-    a=8
-    b=34
-    c=a+b
-    print(c)
-func()
+def my_function(*kids):
+  print("The youngest child is " + kids[2])
+
+my_function("hasan","maisha","loura")
