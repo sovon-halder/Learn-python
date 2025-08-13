@@ -1,4 +1,7 @@
-def my_function(**k):
-    print("his last name is "+k["lname"])
+def my_function(country = "Norway"):
+  print("I am from " + country)
 
-my_function(fname="sovon",lname="halder")
+my_function("Sweden")
+my_function("India")
+my_function()
+my_function("Brazil")
