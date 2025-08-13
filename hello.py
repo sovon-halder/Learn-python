@@ -1,4 +1,4 @@
-def my_function(*kids):
-  print("The youngest child is " + kids[2])
+def my_function(**k):
+    print("his last name is "+k["lname"])
 
-my_function("hasan","maisha","loura")
+my_function(fname="sovon",lname="halder")
