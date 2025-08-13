@@ -1,7 +1,5 @@
-def my_function(food):
-  for x in food:
-    print(x)
+def my_function(n):
+    return lambda a: a * n
 
-fruits = ["apple", "banana", "cherry"]
-
-my_function(fruits)
+mytripler=my_function(3)
+print(mytripler(4))
