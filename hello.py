@@ -3,7 +3,8 @@ class Person:
     self.name = name
     self.age = age
 
-p1 = Person("John", 36)
+  def myfunc(self):
+    print("Hello my name is " + self.name)
 
-print(p1.name)
-print(p1.age)
+p1 = Person("sovon", 36)
+p1.myfunc()
