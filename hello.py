@@ -1,6 +1,7 @@
-class Student(Person):
-  def __init__(self, fname, lname, year):
-    super().__init__(fname, lname)
-    self.graduationyear = year
+def myfunc():
+  x = 300
+  def myinnerfunc():
+    print(x)
+  myinnerfunc()
 
-x = Student("Mike", "Olsen", 2019)
+myfunc()
