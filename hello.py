@@ -1,9 +1,4 @@
-x = 300
+import datetime
 
-def myfunc():
-  x = 200
-  print(x)
-
-myfunc()
-
+x = datetime.datetime.now()
 print(x)
