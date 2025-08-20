@@ -1,4 +1,7 @@
-import datetime
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
 
-x = datetime.datetime.now()
-print(x)
+print(len(thisdict))
