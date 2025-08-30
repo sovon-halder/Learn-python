@@ -1,8 +1,25 @@
-my_array = [7, 12, 9, 4, 11, 8]
-minVal = my_array[0]
+stack = []
 
-for i in my_array:
-  if i < minVal:
-    minVal = i
+# Push
+stack.append('A')
+stack.append('B')
+stack.append('C')
+print("Stack: ", stack)
 
-print('Lowest value:', minVal)
+# Peek
+topElement = stack[-1]
+print("Peek: ", topElement)
+
+# Pop
+poppedElement = stack.pop()
+print("Pop: ", poppedElement)
+
+# Stack after Pop
+print("Stack after Pop: ", stack)
+
+# isEmpty
+isEmpty = not bool(stack)
+print("isEmpty: ", isEmpty)
+
+# Size
+print("Size: ",len(stack))
