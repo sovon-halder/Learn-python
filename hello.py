@@ -1,3 +1,1 @@
-a=
-t=type(a)
-print(t)
+a=input("enter your name")
