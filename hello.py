@@ -1,2 +1,3 @@
-a=4-3
-print(a)
+a=
+t=type(a)
+print(t)
