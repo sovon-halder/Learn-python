@@ -1,2 +1,3 @@
-a= int(input("enter your name"))
-print("the spuare of number is",a*2)
+name="sovon"
+short_name=name[0:2]
+print(short_name)
