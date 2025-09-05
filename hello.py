@@ -1,2 +1,2 @@
-l="sovon"
-print(l.startswith("l"))
+name="sovon is good boy"
+print(name.find("  "))
