@@ -1,6 +1,4 @@
-name=["sovon","harry",47, 3, 3.88,"rohit"]
-print(name[5])
-name[5]="oishe"
-print(name[5])
-name.append("subah")
-print(name)
+l1=[6,7,8,55,77,5,4]
+l1.pop(3)
+
+print(l1)
