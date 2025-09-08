@@ -1,4 +1,5 @@
-fruits=[]
-f1=input("enter fruit name")
-fruits.append(f1)
-print(fruits)
+import re
+
+txt = "The rain in Spain"
+x = re.findall("Portugal", txt)
+print(x)
