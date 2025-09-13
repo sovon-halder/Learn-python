@@ -1,3 +1,7 @@
-s1={2,4,55,6,2}
-s2={88,9,55,22,2}
-print(s1-s2)
+words={
+    "vai":"help",
+    "oii":"son",
+    "boss":"sovon"
+}
+word=input("enter your word")
+print(words[word])
