@@ -1,7 +1,5 @@
-words={
-    "vai":"help",
-    "oii":"son",
-    "boss":"sovon"
-}
-word=input("enter your word")
-print(words[word])
+s=set()
+s.add(23)
+s.add("24")
+
+print(s)
