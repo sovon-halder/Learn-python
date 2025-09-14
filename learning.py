@@ -1,5 +1,7 @@
-s=set()
-s.add(23)
-s.add("24")
+dic={}
 
-print(s)
+name=input("enter your name")
+lang=input("enter your language")
+dic.update({name:lang})
+
+print(dic)
