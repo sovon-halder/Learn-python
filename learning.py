@@ -1,7 +1,5 @@
-dic={}
-
-name=input("enter your name")
-lang=input("enter your language")
-dic.update({name:lang})
-
-print(dic)
+a=int(input("enter your age"))
+if(a>18):
+    print("your age is too young")
+else:
+    print("your age is too minor")
