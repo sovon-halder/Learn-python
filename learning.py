@@ -1,5 +1,5 @@
 a=int(input("enter your age"))
-if(a>18):
+if(a>18 and a<55):
     print("your age is too young")
 elif(a<0):
     print("your'e enter negative number")
