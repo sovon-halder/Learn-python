@@ -1,7 +1,9 @@
-a=int(input("enter your age"))
-if(a>18 and a<55):
-    print("your age is too young")
-elif(a<0):
-    print("your'e enter negative number")
-else:
-    print("your age is too minor")
+markes1=int(input("Enter your markes1"))
+markes2=int(input("Enter your markes2"))
+markes3=int(input("Enter your markes3"))
+total_percentage= (markes1+markes2+markes3)/300
+
+if (total_percentage>=40):
+    print("your percentage is over than 40%")
+else :
+    print("your percentage is under than 40%")
