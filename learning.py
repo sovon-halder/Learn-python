@@ -1,8 +1,6 @@
-s="money is power"
-s2="love is everything"
-s3="click here"
-massage=input("enter your comment: ")
-if((s in massage) or (s2 in massage) or (s3 in massage)):
-    print("this is spam")
+username=input("Enter your username: ")
+
+if(len(username)<10):
+    print("this username lessthen 10")
 else:
-    print("this is valid,you can go")
+    print("this is gerater then 10")
