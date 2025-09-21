@@ -1,6 +1,7 @@
-username=input("Enter your username: ")
+username=["sovon","himel","ovi","she","kabir"]
+name=input("enter your name")
 
-if(len(username)<10):
-    print("this username lessthen 10")
+if(name in username ):
+    print("this username already taken")
 else:
-    print("this is gerater then 10")
+    print("this username is unic")
