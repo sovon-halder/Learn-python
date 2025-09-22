@@ -1,7 +1,3 @@
-username=["sovon","himel","ovi","she","kabir"]
-name=input("enter your name")
 
-if(name in username ):
-    print("this username already taken")
-else:
-    print("this username is unic")
+for i in range(1, 5):
+    print(i)
