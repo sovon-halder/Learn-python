@@ -1,5 +1,11 @@
-l=["sovon",4,2,"name","rohan"]
-i=0
-while(i<len(l)+1):
-    print(l[i])
-    i=i+1
+list=[2,3,4,5,44,6,77,8,7]
+for i in list:
+    print(i)
+
+tupple=(5,44,6,77,8,7)
+for i in tupple:
+    print(i)
+
+s="sovon"
+for i in s:
+    print(i)
