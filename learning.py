@@ -1,6 +1,6 @@
+n1=int(input("enter your number"))
+n2=int(input("enter your number"))
+n3=int(input("enter your number"))
 
-n=int(input("Enter the number: "))
-product=1
-for i in range(1,n+1):
-    product*=i
-    print(f"the factorial of {n} is {product}")
+ave=(n1+n2+n3)/3
+print(ave)
