@@ -1,3 +1,7 @@
-def name(ln):
-    print("sovon"+ln)
-name(" halder")
+def name(name,ending="thank you"):
+    print(f"good day ,{name}")
+    print(ending)
+
+name("sovon")
+
+name("rohan")
