@@ -1,17 +1,10 @@
-def comp():
 
-        n1 = int(input("Enter 1st number: "))
-        n2 = int(input("Enter 2nd number: "))
-        n3 = int(input("Enter 3rd number: "))
-
-        if (n1 < n2 and n1 < n3):
-            print(f"{n1} is smallest number")
-        elif (n2 < n1 and n2 < n3):
-            print(f"{n2} is smallest number")
-        else:
-            print(f"{n3} is smallest number")
+def rem(l, word):
+    for item in l:
+         l.remove(word)
+         return l
 
 
+l=["sovon","rohit","subha","nekhil"]
 
-
-comp()
+print(rem(l,"sovon"))
