@@ -1,4 +1,6 @@
-f= open("f1.txt")
-data=f.read()
-print(data)
+sr="you are so good"
+
+f= open("f1.txt","w")
+f.write(sr)
 f.close()
+
