@@ -1,6 +1,5 @@
-sr="you are so good"
 
-f= open("f1.txt","w")
-f.write(sr)
-f.close()
 
+f=open("f1.txt")
+lines=f.readlines()
+print(lines,type(lines))
